@@ -1,0 +1,26 @@
+1)Userden kisi ve qadinlari al
+
+2)Userden bu qadin ve kisilerin tercih elediyi kisilerin listini al
+
+3)tercihler ucun metod
+
+4) neticeleri ekrana yazdir
+
+tercihleri hesablamaq ucun metod yaz. Bu metod ozunde gale shapley alqoritmasinin mentiqini dasimalidi
+
+
+Tercihleri tesgil eden metod userden neticeleri goturub duzgun eslesmeleri ozunde saxlamalidi
+
+
+1) burda cw readline istifade olunmalidi. ve 3 metodu bunlari elave etmelidi.split edib array kimi qebul ede bilerik
+
+2)burda eslesmelere menimsedilmelidi datalar
+
+
+3) metodda melumatlari List string tipinden saxlamaq lazimdir.Key value mentiqi ile yazilmalidir. Dictionary istifade edilmelidir ki neticeleri muqayise ede bilek
+
+
+*qadinlarin bekar olub olmadigini yoxlamaq ucun while istifade edlimeli. bekarlar tam melum olmadigi ucun dequeue metodu istifade edilmelidi sonuda Enqueue ile olmalidir ^searching
+
+*arrayda daha rahat gezmek ucun foreach istifade edilmelidir. bilinmiyen ve bilinen tercihler ucun ise for istifade edilmelidir
+
