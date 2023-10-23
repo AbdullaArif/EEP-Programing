@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\EEP Programing\EsitlemeAlgoritm\EsitlemeAlgoritm\obj\Debug\net6.0\EsitlemeAlgoritm.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\EEP Programing\EsitlemeAlgoritm\EsitlemeAlgoritm\obj\Debug\net6.0\EsitlemeAlgoritm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\EEP Programing\EsitlemeAlgoritm\EsitlemeAlgoritm\obj\Debug\net6.0\EsitlemeAlgoritm.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\EEP Programing\EsitlemeAlgoritm\EsitlemeAlgoritm\obj\Debug\net6.0\EsitlemeAlgoritm.AssemblyInfo.cs
+C:\Users\user\Desktop\EEP Programing\EsitlemeAlgoritm\EsitlemeAlgoritm\obj\Debug\net6.0\EsitlemeAlgoritm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EEP Programing\EsitlemeAlgoritm\EsitlemeAlgoritm\bin\Debug\net6.0\EsitlemeAlgoritm.exe
+C:\Users\user\Desktop\EEP Programing\EsitlemeAlgoritm\EsitlemeAlgoritm\bin\Debug\net6.0\EsitlemeAlgoritm.deps.json
+C:\Users\user\Desktop\EEP Programing\EsitlemeAlgoritm\EsitlemeAlgoritm\bin\Debug\net6.0\EsitlemeAlgoritm.runtimeconfig.json
+C:\Users\user\Desktop\EEP Programing\EsitlemeAlgoritm\EsitlemeAlgoritm\bin\Debug\net6.0\EsitlemeAlgoritm.dll
+C:\Users\user\Desktop\EEP Programing\EsitlemeAlgoritm\EsitlemeAlgoritm\bin\Debug\net6.0\EsitlemeAlgoritm.pdb
+C:\Users\user\Desktop\EEP Programing\EsitlemeAlgoritm\EsitlemeAlgoritm\obj\Debug\net6.0\EsitlemeAlgoritm.dll
+C:\Users\user\Desktop\EEP Programing\EsitlemeAlgoritm\EsitlemeAlgoritm\obj\Debug\net6.0\refint\EsitlemeAlgoritm.dll
+C:\Users\user\Desktop\EEP Programing\EsitlemeAlgoritm\EsitlemeAlgoritm\obj\Debug\net6.0\EsitlemeAlgoritm.pdb
+C:\Users\user\Desktop\EEP Programing\EsitlemeAlgoritm\EsitlemeAlgoritm\obj\Debug\net6.0\EsitlemeAlgoritm.genruntimeconfig.cache
+C:\Users\user\Desktop\EEP Programing\EsitlemeAlgoritm\EsitlemeAlgoritm\obj\Debug\net6.0\ref\EsitlemeAlgoritm.dll
