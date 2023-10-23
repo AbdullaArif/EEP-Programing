@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\EEP Programing\LuhinAlgoritm\LuhinAlgoritm\bin\Debug\net6.0\LuhinAlgoritm.exe
+C:\Users\user\Desktop\EEP Programing\LuhinAlgoritm\LuhinAlgoritm\bin\Debug\net6.0\LuhinAlgoritm.deps.json
+C:\Users\user\Desktop\EEP Programing\LuhinAlgoritm\LuhinAlgoritm\bin\Debug\net6.0\LuhinAlgoritm.runtimeconfig.json
+C:\Users\user\Desktop\EEP Programing\LuhinAlgoritm\LuhinAlgoritm\bin\Debug\net6.0\LuhinAlgoritm.dll
+C:\Users\user\Desktop\EEP Programing\LuhinAlgoritm\LuhinAlgoritm\bin\Debug\net6.0\LuhinAlgoritm.pdb
+C:\Users\user\Desktop\EEP Programing\LuhinAlgoritm\LuhinAlgoritm\obj\Debug\net6.0\LuhinAlgoritm.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\EEP Programing\LuhinAlgoritm\LuhinAlgoritm\obj\Debug\net6.0\LuhinAlgoritm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\EEP Programing\LuhinAlgoritm\LuhinAlgoritm\obj\Debug\net6.0\LuhinAlgoritm.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\EEP Programing\LuhinAlgoritm\LuhinAlgoritm\obj\Debug\net6.0\LuhinAlgoritm.AssemblyInfo.cs
+C:\Users\user\Desktop\EEP Programing\LuhinAlgoritm\LuhinAlgoritm\obj\Debug\net6.0\LuhinAlgoritm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EEP Programing\LuhinAlgoritm\LuhinAlgoritm\obj\Debug\net6.0\LuhinAlgoritm.dll
+C:\Users\user\Desktop\EEP Programing\LuhinAlgoritm\LuhinAlgoritm\obj\Debug\net6.0\refint\LuhinAlgoritm.dll
+C:\Users\user\Desktop\EEP Programing\LuhinAlgoritm\LuhinAlgoritm\obj\Debug\net6.0\LuhinAlgoritm.pdb
+C:\Users\user\Desktop\EEP Programing\LuhinAlgoritm\LuhinAlgoritm\obj\Debug\net6.0\LuhinAlgoritm.genruntimeconfig.cache
+C:\Users\user\Desktop\EEP Programing\LuhinAlgoritm\LuhinAlgoritm\obj\Debug\net6.0\ref\LuhinAlgoritm.dll

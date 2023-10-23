@@ -1,0 +1,25 @@
+Luhn algoritması, kredi kartı veya bankamatik kartı numaralarının doğruluğunu doğrulamak için kullanılan bir algoritmadır. Kart numarasının son hanesi genellikle bir kontrol hanesi (checksum digit) olarak kullanılır. İşte bir kart numarasının Luhn algoritmasına göre doğruluğunu kontrol etme adımları:
+
+Kart numarasının son hanesini çıkarın (bu kontrol hanesi olacak).
+Kart numarasının diğer hanelerini sağdan sola doğru, hane sırasını değiştirmeden iki haneli gruplara ayırın.
+Her iki haneli grubun içindeki her hane için aşağıdaki işlemi yapın:
+Eğer hane tek bir hane ise, bu haneyi direkt olarak toplamın sonucuna ekleyin.
+Eğer hane iki haneli bir sayı ise, haneleri ayrı ayrı alıp her birini toplamın sonucuna ekleyin.
+Bu gruplardaki toplamı hesapladığınızda, kontrol hanesini ekleyin (ilk adımda çıkarttığınız hane).
+Elde edilen toplamın son hanesi 0 ise, kart numarası Luhn algoritmasına göre geçerli kabul edilir.
+Verilen kart numarası: 3379 5135 6110 8795
+
+Son hane olan 5'i çıkartırsak: 3379 5135 6110 879
+Haneleri iki haneli gruplara ayırarak: 33 79 51 35 61 10 87 9
+Her iki haneli grup için toplamlar:
+3 + 3 = 6
+7 + 9 = 16 (her iki hane ayrı ayrı toplandı)
+5 + 1 = 6
+3 + 5 = 8
+6 + 1 = 7
+1 + 0 = 1
+8 + 7 = 15 (her iki hane ayrı ayrı toplandı)
+9 (kontrol hanesi, direkt olarak eklenir)
+Bu toplamın son hanesi: 6 + 16 + 6 + 8 + 7 + 1 + 15 + 9 = 68 (kontrol hanesi 9 eklenerek)
+Son hane 0 olmadığı için kart numarası Luhn algoritmasına göre geçerli kabul edilmez.
+Bu nedenle, verilen kart numarası Luhn algoritmasına göre geçerli bir kart numarası değildir.
